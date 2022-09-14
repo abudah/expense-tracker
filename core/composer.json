@@ -1,0 +1,15 @@
+{
+    "name": "abudah/php-mvc-core",
+    "autoload": {
+        "psr-4": {
+            "Abudah\\PhpMvcCore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fekede Alemayehu",
+            "email": "fekedealemayehu4@gmail.com"
+        }
+    ],
+    "require": {}
+}
